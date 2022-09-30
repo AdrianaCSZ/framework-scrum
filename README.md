@@ -11,6 +11,7 @@ Seja criativo(a)! Explore todos os conceitos que aprendemos nessa imersão e rep
 
 Links úteis
 Template no Miro: https://miro.com/app/board/uXjVPahls68=/?share_link_id=956189813435 
+Tudo sobre o Framework Scrum https://blog.geekhunter.com.br/framework-scrum-voce-esta-usando-corretamente/
 
 Vou escrever aqui o meu desafio:
 
