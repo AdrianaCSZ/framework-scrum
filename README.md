@@ -43,10 +43,10 @@ Vou escrever aqui o meu desafio:
 - SPRINT BACKLOG
 - INCREMENTO
 
->>> # Framework Scrum com todos os Artefatos, Eventos, Papéis e Time-box
+>>> # Framework Scrum com todos os Artefatos, Eventos, Papéis e Timebox
 
 
-#TIME-BOX:
+#TIMEBOX:
 
 SPRINT - DAILY SCRUM - SPRINT PLANNING - SPRINT REVIEW - SPRINT RETROSPECTIVA
 
