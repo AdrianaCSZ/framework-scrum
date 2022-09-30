@@ -26,7 +26,7 @@ Vou escrever aqui o meu desafio:
 - COMPROMETIMENTO
 - RESPEITO
 
->>>> # Correlação dos Cards da figura apresentada no link
+>>> # Correlação dos Cards da figura apresentada no link
 # Scrum Team
 - SCRUM MASTER
 - PRODUCT OWNER
@@ -42,6 +42,6 @@ Vou escrever aqui o meu desafio:
 - SPRINT BACKLOG
 - INCREMENTO
 
-.... # Framework Scrum com todos os Artefatos, Eventos, Papéis e Time-box
+>>> # Framework Scrum com todos os Artefatos, Eventos, Papéis e Time-box
 
  
