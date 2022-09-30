@@ -28,9 +28,19 @@ Vou escrever aqui o meu desafio:
 
 >>>> # Correlação dos Cards da figura apresentada no link
 # Scrum Team
-
+- SCRUM MASTER
+- PRODUCT OWNER
+- DEVELOPERS
 # Eventos 
-
+- SPRINT
+- SPRINT PLANNING
+- DAILY SCRUM
+- SPRINT REVIEW
+- SPRINT RETROSPECTIVE
 # Artefatos
+- PRODUCT BACKLOG
+- SPRINT BACKLOG
+- INCREMENTO
+
 
  
