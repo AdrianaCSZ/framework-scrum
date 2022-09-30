@@ -45,4 +45,12 @@ Vou escrever aqui o meu desafio:
 
 >>> # Framework Scrum com todos os Artefatos, Eventos, Papéis e Time-box
 
- 
+
+#TIME-BOX:
+
+SPRINT - DAILY - PLANNING - REVIEW - RETROSPECTIVA
+
+1 Sem  - 0:15 - 2:00 - 1:00 - 0:45
+2 Sem  - 0:15 - 4:00 - 2:00 - 1:30
+3 Sem  - 0:15 - 6:00 - 3:00 - 2:25 
+4 Sem  - 0:15 - 8:00 - 4:00 - 3:00
