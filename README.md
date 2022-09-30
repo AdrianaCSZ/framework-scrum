@@ -14,14 +14,14 @@ Template no Miro: https://miro.com/app/board/uXjVPahls68=/?share_link_id=9561898
 
 Vou escrever aqui o meu desafio:
 
-# PILARES E VALORES DO SCRUM
+>>> # PILARES E VALORES DO SCRUM
 
 # Pilares do Scrum:
 - TRANSPARÊNCIA
 - INSPEÇÃO
 - ADAPTAÇÃO
 
-# Valores do Scrum
+# Valores do Scrum:
 - FOCO
 - ABERTURA
 - CORAGEM 
