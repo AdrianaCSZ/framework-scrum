@@ -25,7 +25,8 @@ Vou escrever aqui o meu desafio:
 - COMPROMETIMENTO
 - RESPEITO
 
->>> # Cards da figura apresentada no link: Template no Miro: https://miro.com/app/board/uXjVPahls68=/?share_link_id=956189813435 
+>>> # Cards da figura apresentada no link: Template no Miro: 
+https://miro.com/app/board/uXjVPahls68=/?share_link_id=956189813435 
 # Scrum Team
 - SCRUM MASTER
 - PRODUCT OWNER
