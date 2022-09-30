@@ -27,7 +27,7 @@ Vou escrever aqui o meu desafio:
 - COMPROMETIMENTO
 - RESPEITO
 
->>> # Correlação dos Cards da figura apresentada no link
+>>> # Correlação dos Cards da figura apresentada no link: Template no Miro: https://miro.com/app/board/uXjVPahls68=/?share_link_id=956189813435 
 # Scrum Team
 - SCRUM MASTER
 - PRODUCT OWNER
@@ -44,6 +44,9 @@ Vou escrever aqui o meu desafio:
 - INCREMENTO
 
 >>> # Framework Scrum com todos os Artefatos, Eventos, Papéis e Timebox
+Links úteis
+https://artia.com/blog/sprint/
+https://analistaexpert.com.br/scrum/
 
 
 #TIMEBOX:
