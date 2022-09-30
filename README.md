@@ -17,11 +17,11 @@ Vou escrever aqui o meu desafio:
 # PILARES E VALORES DO SCRUM
 
 # Pilares do Scrum:
-1 - TRANSPARÊNCIA
-2 - INSPEÇÃO
-3 - ADAPTAÇÃO
+- TRANSPARÊNCIA
+- INSPEÇÃO
+- ADAPTAÇÃO
 
-# VALORES DO SCRUM
+# Valores do Scrum
 1 - FOCO
 2 - ABERTURA
 3 - CORAGEM 
