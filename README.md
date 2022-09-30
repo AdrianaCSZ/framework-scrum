@@ -22,11 +22,11 @@ Vou escrever aqui o meu desafio:
 - ADAPTAÇÃO
 
 # Valores do Scrum
-1 - FOCO
-2 - ABERTURA
-3 - CORAGEM 
-4 - COMPROMETIMENTO
-5 - RESPEITO
+- FOCO
+- ABERTURA
+- CORAGEM 
+- COMPROMETIMENTO
+- RESPEITO
 
 
 
