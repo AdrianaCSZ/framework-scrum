@@ -49,7 +49,7 @@ Links úteis:
 - https://analistaexpert.com.br/scrum/
 
 
-# TIMEBOX:
+# TIMEBOX ⏱
 
 SPRINT - DAILY SCRUM - SPRINT PLANNING - SPRINT REVIEW - SPRINT RETROSPECTIVA
 
